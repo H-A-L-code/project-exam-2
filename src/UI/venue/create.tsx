@@ -1,7 +1,7 @@
 import { HandleCreateVenue } from '../../API/venues/create';
-import { Media, VenueCreate } from '../../Types/common';
+import { Media, Venue } from '../../Types/common';
 
-const buildVenueCreatePayload = (formdata: FormData, media: Media[]): VenueCreate => ({
+const buildVenueCreatePayload = (formdata: FormData, media: Media[]): Venue => ({
   media,
   name: formdata.get('name')?.toString() || '',
   description: formdata.get('description')?.toString() || '',
