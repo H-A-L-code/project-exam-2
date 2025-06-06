@@ -93,6 +93,9 @@ Holidaze is a accommodation booking site where your can browse venues book venue
    npm run preview
    ```
 
+## Live Page
+ <a href="https://hal-holidaze.netlify.app/">Holidaze</a> 👈
+
 ## Acknowledgments
    Banner image homepage - Photo by <a href="https://unsplash.com/@sichpicsss?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Matthew Sichkaruk</a> on <a href="https://unsplash.com/photos/brown-wooden-house-near-green-trees-and-mountain-under-white-clouds-and-blue-sky-during-daytime-hUUIPXXMTeM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
